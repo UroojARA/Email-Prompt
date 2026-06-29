@@ -9,10 +9,10 @@ Act as an email assistant.
 
 Summarize the following email and provide:
 
--Key points
--Action items
--Deadlines
--Questions that need a response 
+*Key points
+*Action items
+*Deadlines
+*Questions that need a response 
 
 Email:
 {paste email here}
@@ -31,18 +31,18 @@ John
 
 **Key Points**
 
--Client requested the final reort by Friday.
--Team feedback on the draft is needed by Wednesday.
-- A meeting needs to be scheduled for next week.
+*Client requested the final reort by Friday.
+*Team feedback on the draft is needed by Wednesday.
+* A meeting needs to be scheduled for next week.
 
 **Action Items**
--Review the draft report.
--Send feedback by Wednesday.
--Scedule a meeting for next week.
+*Review the draft report.
+*Send feedback by Wednesday.
+*Scedule a meeting for next week.
 
 **Deadlines**
--Feedback due: Wednesday
--Final report due: Friday
+*Feedback due: Wednesday
+*Final report due: Friday
 
 **Questions**
 No specific Question here
