@@ -2,7 +2,7 @@
 Write a professional email in a polite and clear tone.
 
 ## Prompt 
-Act as a professional communication assisant. Rewrite the following message inggo a professional and polite email while keeping the original meaning.
+Act as a professional communication assisant. Rewrite the following message into a professional and polite email while keeping the original meaning.
 
 Message:
 {{paste your message here}}
