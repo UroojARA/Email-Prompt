@@ -4,13 +4,15 @@
 Long emails can be difficult and time-consuming to read and understand.
 
 ## Prompt
+
 Act as an email assistant.
+
 Summarize the following email and provide:
 
 -Key points
 -Action items
 -Deadlines
--Question that need to be response 
+-Questions that need a response 
 
 Email:
 {paste email here}
@@ -26,7 +28,9 @@ Thanks,
 John
 
 ### Output
+
 **Key Points**
+
 -Client requested the final reort by Friday.
 -Team feedback on the draft is needed by Wednesday.
 - A meeting needs to be scheduled for next week.
